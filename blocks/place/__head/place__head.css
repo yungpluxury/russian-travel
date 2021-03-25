@@ -1,0 +1,8 @@
+.place__head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 984px;
+    margin-bottom: 48px;
+    vertical-align: bottom;
+}

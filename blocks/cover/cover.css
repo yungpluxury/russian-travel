@@ -1,0 +1,38 @@
+.cover {
+    background-image: url(../../images/__background.png);
+    background-size: cover;
+    max-width: 1184px;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 92px;
+    text-decoration: none;
+    position: relative;
+    z-index: 0;
+}
+
+
+.cover:hover:before, .cover:hover:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.3;
+}
+
+.cover::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(42, 44, 47);
+    z-index: 1;
+}
+
+.cover:hover::before {
+    content: '';
+}
