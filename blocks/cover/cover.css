@@ -1,6 +1,7 @@
 .cover {
     background-image: url(../../images/__background.png);
     background-size: cover;
+    background-position: center;
     max-width: 1184px;
     height: 720px;
     display: flex;
@@ -35,4 +36,18 @@
 
 .cover:hover::before {
     content: '';
+}
+
+@media (max-width: 1024px) {
+    .cover {
+        max-width: 928px;
+        height: 640px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cover {
+        max-width: 768px;
+        height: 480px;
+    }
 }

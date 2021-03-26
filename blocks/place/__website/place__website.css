@@ -4,3 +4,17 @@
     margin: 0 auto;
     margin-left: 40px;
 }
+
+@media (max-width: 1024px) {
+    .place__website {
+        width: 456px;
+        margin-left: 32px;
+    }
+}
+
+@media (max-width: 768px) {
+    .place__website {
+        width: 352px;
+        margin-left: 28px;
+    }
+}

@@ -8,5 +8,5 @@
     text-align: center;
     color: white;
     margin-top: 32px;
-    width: 640px;
+    max-width: 640px;
 }

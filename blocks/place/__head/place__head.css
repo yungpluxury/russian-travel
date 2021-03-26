@@ -2,7 +2,19 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 984px;
+    max-width: 984px;
     margin-bottom: 48px;
     vertical-align: bottom;
+}
+
+@media (max-width: 1024px) {
+    .place__head {
+        max-width: 928px;
+    }
+}
+
+@media (max-width: 768px) {
+    .place__head {
+        max-width: 720px;
+    }
 }
