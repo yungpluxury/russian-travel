@@ -1,7 +1,13 @@
 .header__logo {
     display: flex;
-    margin-left: 48px;
     margin-top: 28px;
     width: 176px;
     height: 52px;
+}
+
+@media (max-width: 320px) {
+    .header__logo {
+        width: 142px;
+        height: 42px;
+    }
 }

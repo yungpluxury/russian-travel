@@ -9,3 +9,15 @@ letter-spacing: 0.2em;
 color: #AAAAAA;
 margin-bottom: 12px;
 }
+
+@media (max-width:768px) {
+    .place__url-heading {
+        max-width: 352px;
+    }
+}
+
+@media (max-width:320px) {
+    .place__url-heading {
+        max-width: 288px;
+    }
+}

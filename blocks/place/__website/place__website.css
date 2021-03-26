@@ -18,3 +18,10 @@
         margin-left: 28px;
     }
 }
+
+@media (max-width: 320px) {
+    .place__website {
+        max-width: 288px;
+        margin-left: 0;
+    }
+}

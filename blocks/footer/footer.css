@@ -19,3 +19,9 @@
         max-width: 720px;
     }
 }
+
+@media (max-width: 320px) {
+    .footer {
+        max-width: 288px;
+        flex-direction: column;
+    }

@@ -18,3 +18,10 @@
         max-width: 720px;
     }
 }
+
+@media (max-width: 320px) {
+    .place__head {
+        max-width: 288px;
+        flex-direction: column;
+    }
+}
