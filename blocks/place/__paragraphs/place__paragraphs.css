@@ -18,7 +18,7 @@
 
 
 
-@media (max-width: 425px) {
+@media (max-width: 660px) {
     .place__paragraphs {
         max-width: 393px;
         margin-right: auto;
@@ -26,7 +26,7 @@
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 420px) {
     .place__paragraphs {
         max-width: 288px;
         margin-right: auto;

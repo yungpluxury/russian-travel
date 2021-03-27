@@ -27,20 +27,22 @@ margin-bottom: 26px;
 
 
 
-@media (max-width: 425px) {
+@media (max-width: 660px) {
     .place__paragraph {
         max-width: 393px;
         font-size: 16px;
         line-height: 26px;
-        margin-bottom: 25px;
+        margin-top: 32px;
+        margin-bottom: 0;
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 420px) {
     .place__paragraph {
         max-width: 288px;
         font-size: 16px;
         line-height: 26px;
-        margin-bottom: 25px;
+        margin-top: 32px;
+        margin-bottom: 0;
     }
 }

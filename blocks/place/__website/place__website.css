@@ -9,6 +9,14 @@
     .place__website {
         width: 456px;
         margin-left: 32px;
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 900px) {
+    .place__website {
+        width: 300px;
+        margin-left: 32px;
     }
 }
 
