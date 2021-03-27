@@ -16,6 +16,16 @@
     }
 }
 
+
+
+@media (max-width: 425px) {
+    .place__paragraphs {
+        max-width: 393px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
 @media (max-width: 320px) {
     .place__paragraphs {
         max-width: 288px;

@@ -16,3 +16,9 @@
         max-width: 768px;
     }
 }
+
+@media (max-width:425px) {
+    .lead__container {
+        max-width: 425px;
+    }
+}

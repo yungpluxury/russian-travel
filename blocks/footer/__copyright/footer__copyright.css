@@ -14,3 +14,10 @@
     .footer__copyright {
         text-align: left;
     }
+}
+
+@media (max-width: 425px) {
+    .footer__copyright {
+        text-align: left;
+    }
+}

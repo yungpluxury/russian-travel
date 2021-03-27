@@ -25,3 +25,9 @@
         height: 320px;
     }
 }
+
+@media (max-width: 425px) {
+    .place__image {
+        width: 100%;
+    }
+}

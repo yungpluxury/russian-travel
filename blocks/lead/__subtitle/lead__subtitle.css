@@ -18,3 +18,11 @@
         max-width: 320px;
     }
 }
+
+@media (max-width:425px) {
+    .lead__subtitle {
+        font-size: 20px;
+        line-height: 24px;
+        max-width: 320px;
+    }
+}

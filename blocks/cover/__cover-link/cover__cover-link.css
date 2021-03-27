@@ -45,9 +45,23 @@
     }
 }
 
+@media (max-width: 700px) {
+    .cover__cover-link {
+        max-width: 700px;
+        height: 437px;
+    }
+}
+
 @media (max-width: 320px) {
     .cover__cover-link {
         max-width: 320px;
         height: 200px;
+    }
+}
+
+@media (max-width: 425px) {
+    .cover__cover-link {
+        max-width: 425px;
+        height: 270px;
     }
 }

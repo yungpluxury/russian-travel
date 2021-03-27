@@ -11,3 +11,10 @@
         flex-direction: column;
     }
 }
+
+@media (max-width: 425px) {
+    .footer__links {
+        flex-direction: column;
+    }
+}
+

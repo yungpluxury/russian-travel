@@ -19,6 +19,15 @@
     }
 }
 
+
+
+@media (max-width: 425px) {
+    .place__head {
+        max-width: 393px;
+        flex-direction: column;
+    }
+}
+
 @media (max-width: 320px) {
     .place__head {
         max-width: 288px;
