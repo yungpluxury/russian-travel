@@ -1,13 +1,13 @@
 .place__link {
-width: 100%;
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-text-decoration-line: underline;
-color: #FFFFFF;
-margin-bottom: 0;
+    width: 100%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    margin-bottom: 0;
 }
 
 @media (max-width:768px) {

@@ -1,13 +1,13 @@
 .place__paragraph {
-max-width: 484px;
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 163%;
-color: #FFFFFF;
-margin-top: 0;
-margin-bottom: 26px;
+    max-width: 484px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 26px;
 }
 
 @media (max-width: 1024px) {
