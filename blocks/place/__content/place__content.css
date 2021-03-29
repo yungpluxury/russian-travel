@@ -6,12 +6,6 @@
     width: 100%;
 }
 
-@media (max-width:320px) {
-    .place__content {
-        flex-direction: column;
-    }
-}
-
 @media (max-width:660px) {
     .place__content {
         flex-direction: column;

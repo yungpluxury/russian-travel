@@ -6,12 +6,6 @@
     margin-top: 0;
 }
 
-@media (max-width: 320px) {
-    .footer__links {
-        flex-direction: column;
-    }
-}
-
 @media (max-width: 660px) {
     .footer__links {
         flex-direction: column;
