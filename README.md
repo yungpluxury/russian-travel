@@ -41,3 +41,4 @@ ___
 
 - [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 - [Чеклист](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html)
+- [Описание проека от команды Яндекс.Практикум](https://disk.yandex.ru/i/Reoykh1qkf_Ctw)
